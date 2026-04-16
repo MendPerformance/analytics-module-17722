@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: analytics-module-17722
+  namespace: MendPerformance
+  annotations:
+    github.com/project-slug: MendPerformance/analytics-module-17722
+spec:
+  type: service
+  lifecycle: unknown
+  owner: mend.io
